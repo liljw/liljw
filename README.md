@@ -1,7 +1,7 @@
 ### HELLO 👋
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=liljw)](https://github.com/깃허브아이디)
+<!--[![*'s github stats](https://github-readme-stats.vercel.app/api?username=liljw)](https://github.com/깃허브아이디)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liljw)](https://github.com/깃허브아이디/github-readme-stats)
 
